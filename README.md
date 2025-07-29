@@ -12,7 +12,7 @@
 
 # ✪ About Me:
 I am a passionate penetration tester driven by a curiosity to break, build, and secure digital systems. My core interests span:<br><br>    Offensive Security<br><br>    Cloud Security<br><br>    Web Application Testing<br><br>I've completed the Complete Beginner Path on TryHackMe, ranking in the top 6% globally, and I’m actively working through challenges on Hack The Box (HTB) to sharpen my hands-on skills.<br><br>I regularly participate in Capture The Flag (CTF) competitions, and I’m building my profile as a bug bounty hunter, exploring real-world vulnerabilities and responsible disclosure programs.<br><br>Always learning. Always hacking — ethically. 💻⚔️
-
+---
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="20%" align="left" />
@@ -24,7 +24,7 @@ I am a passionate penetration tester driven by a curiosity to break, build, and 
 <a href="https://instagram.com/_d4rk_hxnd_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_d4rk_hxnd_" height="30" width="40" /></a>
 <a href="https://medium.com/@shashank_d_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shashank_d_s" height="30" width="40" /></a>
 </p>
-
+---
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <img src="https://media.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" width="20%" align="left" />
