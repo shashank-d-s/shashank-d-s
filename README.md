@@ -34,7 +34,7 @@ I am a passionate penetration tester driven by a curiosity to break, build, and 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/564167ad-97a4-4a76-87a0-4a0e54ea8956" width="100%" align="top" />
   <img src="https://github-readme-stats.vercel.app/api?username=shashank-d-s&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="50%" />
-  <img src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15" width="22%" align="right" />
+  <img src="https://res.cloudinary.com/dlrufxajy/image/upload/v1753794232/side_ebhkiq.gif" width="22%" align="right" />
 </div>
 
 <br/>
