@@ -4,8 +4,8 @@
   <img src="https://github.com/user-attachments/assets/564167ad-97a4-4a76-87a0-4a0e54ea8956" width="100%" align="top" />
   <img src="https://res.cloudinary.com/dlrufxajy/image/upload/v1753792702/entry_kzfj2c.gif" width="100%" height="250"/>
   <img src="https://github.com/user-attachments/assets/564167ad-97a4-4a76-87a0-4a0e54ea8956" width="100%" align="top" />
+<h7>Alert ⚠️ Use Desktop Mode for Best experience ⚠️</h7>
 </p>
-
 <p align="center">
   <!--<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="20%" align="left" />-->
   <img src="https://res.cloudinary.com/dlrufxajy/image/upload/v1753792702/about_b4utle.gif" width="25%" height="300%" align="right" />
