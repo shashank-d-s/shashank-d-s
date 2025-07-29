@@ -6,8 +6,9 @@
 
 <p align="center">
   <!--<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="20%" align="left" />-->
-  <img src="https://github.com/user-attachments/assets/9adb454c-fbe6-4647-8dd7-40ed1e44c35f" width="25%" height="300%" align="right" />
+  <img src="https://github.com/user-attachments/assets/cb3ed75a-2d53-4d55-bbaf-ab0da2fa40b4" width="25%" height="300%" align="right" />
 </p>
+
 
 # ✪ About Me:
 I am a passionate penetration tester driven by a curiosity to break, build, and secure digital systems. My core interests span:<br><br>    Offensive Security<br><br>    Cloud Security<br><br>    Web Application Testing<br><br>I've completed the Complete Beginner Path on TryHackMe, ranking in the top 6% globally, and I’m actively working through challenges on Hack The Box (HTB) to sharpen my hands-on skills.<br><br>I regularly participate in Capture The Flag (CTF) competitions, and I’m building my profile as a bug bounty hunter, exploring real-world vulnerabilities and responsible disclosure programs.<br><br>Always learning. Always hacking — ethically. 💻⚔️
@@ -48,15 +49,17 @@ I am a passionate penetration tester driven by a curiosity to break, build, and 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashank-d-s&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="40%" align="left" />
-  <img src="https://github.com/user-attachments/assets/b4685520-546b-4ae1-b8fb-0243ca4287cd" width="55%" height="300" align="right" />
+  <img src="https://github.com/user-attachments/assets/fd9aed84-56eb-437a-a3c7-485fa693432c" width="55%" height="300" align="right" />
 </div>
+
 
 
 <div align="center">
   <h3> 🔝 Top Contributed Repo </h3>
   <img src="https://github-contributor-stats.vercel.app/api?username=shashank-d-s&limit=5&theme=highcontrast&combine_all_yearly_contributions=true" width="60%" align="left" />
-  <img src="https://github.com/user-attachments/assets/7b4e8b3a-0182-40c8-a427-b04d5cd849ee" width="32%" align="right" />
+  <img src="https://github.com/user-attachments/assets/994e229d-9559-488b-89bd-d8d30e9b37c6" width="32%" align="right" />
 </div>
+
 
 
 ---
